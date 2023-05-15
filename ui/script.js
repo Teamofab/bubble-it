@@ -88,7 +88,7 @@ onload=()=>{
     $(".container")[user.length-1].style.border="none";
     $(".message")[user.length-1].style=`
     color:var(--green);
-    font-weight:border;
+    font-weight:bolder;
     `;
     
     setTimeout(()=>{
